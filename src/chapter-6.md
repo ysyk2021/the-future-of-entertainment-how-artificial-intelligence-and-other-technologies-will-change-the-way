@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Entertainment
-==================================================================
 
 As artificial intelligence (AI) becomes increasingly prevalent in the entertainment industry, it is essential to consider the ethical and legal implications of its use. In this chapter, we will explore the ethical considerations and legal framework necessary for the responsible use of AI in entertainment.
 

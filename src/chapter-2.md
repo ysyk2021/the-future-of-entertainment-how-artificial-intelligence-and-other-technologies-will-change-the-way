@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand the potential impact of artificial intelligence (AI) on the entertainment industry, it is important to have a clear understanding of its background and fundamentals. This chapter will explore the history of AI, different types of AI, and machine learning techniques.
 

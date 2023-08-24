@@ -1,5 +1,3 @@
-Chapter 3: Entertainment Landscape
-==================================
 
 To fully understand the impact of artificial intelligence (AI) on the entertainment industry, it is crucial to examine the overall landscape of the industry. This chapter will explore global trends in media consumption and production and components of the entertainment industry.
 

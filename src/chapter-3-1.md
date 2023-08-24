@@ -1,5 +1,3 @@
-Global Trends in Media Consumption and Production
-=====================================================================================
 
 The entertainment industry is a global phenomenon, with media and entertainment content consumed and produced around the world. In this chapter, we explore global trends in media consumption and production, examining how consumer preferences and production practices are changing in different regions of the world.
 

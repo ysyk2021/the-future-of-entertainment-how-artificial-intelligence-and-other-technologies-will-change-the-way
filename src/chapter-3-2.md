@@ -1,5 +1,3 @@
-Components of the Entertainment Industry
-============================================================================
 
 The entertainment industry is a vast and complex ecosystem that includes a wide range of media, content, and delivery platforms. In this chapter, we explore the components of the entertainment industry, including traditional and emerging forms of media and entertainment.
 

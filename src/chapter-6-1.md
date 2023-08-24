@@ -1,5 +1,3 @@
-Ethical Considerations
-==========================================================================================
 
 As AI continues to permeate every aspect of the entertainment industry, it is critical to consider ethical and legal implications related to its deployment. This chapter will explore some of the ethical considerations surrounding AI in entertainment.
 

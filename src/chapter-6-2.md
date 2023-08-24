@@ -1,5 +1,3 @@
-Legal Framework
-===================================================================================
 
 As AI continues to transform the entertainment industry, it is critical to consider the legal implications of its deployment. This chapter will explore some of the legal frameworks related to AI in entertainment.
 

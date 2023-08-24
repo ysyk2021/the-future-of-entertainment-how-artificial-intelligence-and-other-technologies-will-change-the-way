@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has a rich history that dates back to the early days of computing. While the modern era of AI can be traced back to around the 1950s, the roots of the field go back much further.
 

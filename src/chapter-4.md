@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Entertainment
-======================================
 
 Artificial intelligence (AI) is set to become a major force in the entertainment industry, with the potential to transform every aspect of content creation, distribution and audience engagement. In this chapter, we will explore the benefits of AI in entertainment, as well as some of the challenges and limitations associated with its use.
 
