@@ -1,5 +1,4 @@
-Chapter 2: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a diverse field encompassing various approaches and techniques. To understand how AI is changing the future of entertainment, it's essential to explore the different types of AI. This chapter provides an overview of the main categories of AI.
 

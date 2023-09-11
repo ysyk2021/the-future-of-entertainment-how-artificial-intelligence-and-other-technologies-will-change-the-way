@@ -1,5 +1,4 @@
-Chapter 5: Legal Framework
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of entertainment, the integration of artificial intelligence (AI) and other advanced technologies has brought about a myriad of legal challenges. As society adapts to new forms of media consumption, it becomes crucial to establish a robust legal framework that ensures the responsible and ethical use of these technologies. This chapter explores the key legal considerations and issues surrounding the future of entertainment.
 

@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of entertainment, the integration of artificial intelligence (AI) and other advanced technologies has brought forth a host of ethical challenges. This chapter delves into the ethical considerations that must be addressed as we navigate the future of entertainment.
 

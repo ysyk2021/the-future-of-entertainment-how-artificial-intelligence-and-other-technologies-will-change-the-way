@@ -1,5 +1,4 @@
-Chapter 7: Global Trends in Media Consumption and Production
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the global trends in media consumption and production is crucial to envisioning the future of entertainment in the age of artificial intelligence and emerging technologies. In this chapter, we explore the evolving landscape of how media is both consumed and created on a global scale.
 

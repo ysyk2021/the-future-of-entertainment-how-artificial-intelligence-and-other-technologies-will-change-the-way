@@ -1,5 +1,4 @@
-Chapter 1: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a foundational technology that plays a pivotal role in shaping the future of entertainment. To understand its significance, it is essential to delve into the historical development of AI. This chapter provides an overview of key milestones and developments in the field of AI.
 

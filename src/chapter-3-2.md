@@ -1,5 +1,4 @@
-Chapter 6: Components of the Entertainment Industry
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To understand how artificial intelligence and emerging technologies are changing the entertainment landscape, we must examine the various components that make up this dynamic industry. This chapter provides an overview of the key elements that constitute the entertainment ecosystem.
 

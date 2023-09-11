@@ -1,5 +1,4 @@
-Chapter 3: Benefits of AI in Entertainment
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has ushered in a new era of entertainment, revolutionizing the way we create, consume, and interact with media. This chapter explores the myriad benefits that AI brings to the world of entertainment, enhancing the user experience and expanding creative possibilities.
 

@@ -1,5 +1,4 @@
-Chapter 7: Challenges and Limitations of AI in Entertainment
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While the integration of artificial intelligence (AI) in entertainment offers numerous benefits, it also presents a range of challenges and limitations. This chapter explores the hurdles and constraints that must be acknowledged as we chart the future of entertainment.
 

@@ -1,5 +1,4 @@
-Chapter 4: Content Creation and Generation
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has significantly influenced content creation and generation in the entertainment industry. This chapter explores the ways AI is revolutionizing how media is produced and the creative possibilities it unlocks.
 
